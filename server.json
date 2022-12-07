@@ -9,36 +9,28 @@
       "createdAt": "2022-07-29T19:36:44.505Z"
     },
     {
-      "id": 2,
-      "description": "Hamburguer",
-      "type": "outcome",
-      "category": "Alimentação",
-      "price": 34,
-      "createdAt": "2022-07-29T19:30:44.505Z"
-    },
-    {
-      "id": 3,
-      "description": "Ignite Rocketseat",
-      "type": "outcome",
-      "category": "Educação",
-      "price": 875,
-      "createdAt": "2022-07-29T19:24:44.505Z"
-    },
-    {
       "description": "Compras do mês",
-      "price": 2000,
+      "price": 2500,
       "category": "Alimentação",
       "type": "outcome",
-      "createdAt": "2022-12-06T22:25:28.404Z",
-      "id": 4
+      "createdAt": "2022-12-07T00:53:25.884Z",
+      "id": 2
     },
     {
-      "description": "Aluguel",
-      "price": 1500,
-      "category": "Moradia",
+      "description": "Conta de Energia",
+      "price": 200,
+      "category": "Contas fixas mensais",
       "type": "outcome",
-      "createdAt": "2022-12-06T22:57:04.302Z",
-      "id": 5
+      "createdAt": "2022-12-07T00:55:39.841Z",
+      "id": 3
+    },
+    {
+      "description": "Conta de água",
+      "price": 100,
+      "category": "Contas fixas mensais",
+      "type": "outcome",
+      "createdAt": "2022-12-07T00:55:58.398Z",
+      "id": 4
     }
   ]
 }
